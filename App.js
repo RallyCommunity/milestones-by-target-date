@@ -42,7 +42,8 @@ Ext.define('CustomApp', {
                 'FormattedID',
                 'Name',
                 'TargetDate',
-                'TargetProject'
+                'TargetProject',
+                'Artifacts'
             ],
             context: this.getContext(),
             storeConfig: {
